@@ -25,6 +25,36 @@ img {
     padding: 10px;
 
 }
+
+
+footer{
+     font-size: 32px;
+     color:#F1CEA5;
+     padding: 10px;
+
+}
+.linha {
+  border: none;
+  height: 1px;          
+  background-color: white;
+  margin: 20px 0;
+  }
+#aluno{ 
+    color:#F1CEA5 ;
+    font-size: 32px;
+    order: 10px solid white;
+    padding: 10px;
+    text-align: center;
     
+
+}
+ul{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+
+
 
     
